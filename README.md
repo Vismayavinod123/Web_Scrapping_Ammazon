@@ -1,6 +1,6 @@
 # AMazon price Tracker
 
-Using Rotating proxies, Product price are crawled from the product links. The crawls are done to monitor the price change.
+Using Rotating proxies, Product price are crawled from the product links. The crawls are done to monitor the price change. Proxies can be added as list
 
 
 
